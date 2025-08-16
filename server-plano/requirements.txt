@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+google-generativeai
+supabase
+python-jose[cryptography]
+passlib[bcrypt]
+redis
+hiredis
